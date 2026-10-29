@@ -1,0 +1,4 @@
+nufs
+*.o
+mnt/
+data.nufs
